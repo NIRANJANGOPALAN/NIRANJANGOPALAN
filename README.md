@@ -2,7 +2,7 @@
 
 > **Software Engineering | Data Analytics | Business Intelligence | AI & ML**
 
-Below are the technologies I use in my daily work. I know AI & ML — I'm not like those guys who simply do GenAI implementation. I know how things work behind the screen.
+Below are the technologies I use in my daily work. I work in AI & ML — I'm not like those guys who simply do GenAI implementation. I know how things work behind the screen.
 
 ---
 
