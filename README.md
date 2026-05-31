@@ -2,7 +2,7 @@
 
 > **Software Engineering | Data Analytics | Business Intelligence | AI & ML**
 
-Below are the technologies I use in my daily work. I work in AI & ML — I'm not like those guys who simply do GenAI implementation. I know how things work behind the screen.
+*Below are the technologies I use daily. I work across AI & ML — not just GenAI implementation. I understand what happens under the hood.*
 
 ---
 
@@ -13,10 +13,11 @@ Below are the technologies I use in my daily work. I work in AI & ML — I'm not
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frontend & Frameworks
+### 🌐 Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Fast API](https://img.shields.io/badge/fast_API-00C4CC?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -75,20 +76,6 @@ Below are the technologies I use in my daily work. I work in AI & ML — I'm not
 
 ---
 
-## 📌 Pinned Projects
-
-I have a whole lot of private repositories on GIS, defence, and banking. If you're interested, I'm happy to share those privately.
-
-| Project | Description | Stack |
-|---|---|---|
-| [Data-analysis-different-domains](https://github.com/NIRANJANGOPALAN/Data-analysis-different-domains) | Multi-domain data analysis notebooks | Python, Jupyter |
-| [IPL_player_analysis](https://github.com/NIRANJANGOPALAN/IPL_player_analysis) | Cricket player performance analysis | Python, Jupyter |
-| [etl_pipeline](https://github.com/NIRANJANGOPALAN/etl_pipeline) | End-to-end ETL pipeline implementation | Python, Jupyter |
-| [davisExploreBackend](https://github.com/NIRANJANGOPALAN/davisExploreBackend) | Backend API service | Python |
-| [mit-connect](https://github.com/NIRANJANGOPALAN/mit-connect) | Full stack web application | JavaScript |
-
----
-
 ## 📫 Connect with Me
 
 Email : niranjangopalan42@gmail.com
@@ -96,4 +83,4 @@ Phone: +447393067325
 
 ---
 
-*If you're seeing my profile, I'm the kind of guy who can work on any technology and any domain. Yes, I use AI — and I still have full control over the work I do. Thanks, have a nice day.*
+*If you're viewing my profile, I'm the kind of engineer who can work across any technology and any domain. I use AI — and I maintain full control over everything I build. Thanks for stopping by, and have a great day.*
