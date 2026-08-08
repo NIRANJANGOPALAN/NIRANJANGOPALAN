@@ -2,7 +2,7 @@
 
 > **Software Engineering | Data Analytics | Business Intelligence | AI & ML**
 
-*Below are the technologies I use daily. I work across AI & ML — not just GenAI implementation. I understand what happens under the hood.*
+*I work across end to end application from application logic to underlying architecture.*
 
 ---
 
