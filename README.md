@@ -83,4 +83,4 @@ Phone: +447393067325
 
 ---
 
-*If you're viewing my profile, I'm the kind of engineer who can work across any technology and any domain. I use AI — and I maintain full control over everything I build. Thanks for stopping by, and have a great day.*
+*If you're viewing my profile, I'm the kind of engineer who can work across any technology and any domain. I maintain full control over everything I build. Thanks for stopping by, and have a great day.*
